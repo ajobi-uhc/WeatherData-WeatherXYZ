@@ -1,0 +1,70 @@
+Statistics for Beijing:
+  Average Max Temperature: 0.74°C
+  Average Min Temperature: -5.71°C
+  Total Precipitation: 5.40 mm
+  Max Wind Speed: 18.00 km/h
+  Min Wind Speed: 10.00 km/h
+----------------------------------------
+Statistics for Berlin:
+  Average Max Temperature: 2.42°C
+  Average Min Temperature: -0.97°C
+  Total Precipitation: 16.40 mm
+  Max Wind Speed: 20.00 km/h
+  Min Wind Speed: 14.00 km/h
+----------------------------------------
+Statistics for Cairo:
+  Average Max Temperature: 23.87°C
+  Average Min Temperature: 13.87°C
+  Total Precipitation: 0.00 mm
+  Max Wind Speed: 20.00 km/h
+  Min Wind Speed: 14.00 km/h
+----------------------------------------
+Statistics for London:
+  Average Max Temperature: 8.48°C
+  Average Min Temperature: 3.32°C
+  Total Precipitation: 137.00 mm
+  Max Wind Speed: 25.00 km/h
+  Min Wind Speed: 12.00 km/h
+----------------------------------------
+Statistics for Los Angeles:
+  Average Max Temperature: 21.65°C
+  Average Min Temperature: 13.32°C
+  Total Precipitation: 0.00 mm
+  Max Wind Speed: 20.00 km/h
+  Min Wind Speed: 12.00 km/h
+----------------------------------------
+Statistics for New Delhi:
+  Average Max Temperature: 24.10°C
+  Average Min Temperature: 11.23°C
+  Total Precipitation: 3.60 mm
+  Max Wind Speed: 22.00 km/h
+  Min Wind Speed: 10.00 km/h
+----------------------------------------
+Statistics for New York:
+  Average Max Temperature: 4.61°C
+  Average Min Temperature: -2.19°C
+  Total Precipitation: 233.00 mm
+  Max Wind Speed: 25.00 km/h
+  Min Wind Speed: 10.00 km/h
+----------------------------------------
+Statistics for Paris:
+  Average Max Temperature: 6.74°C
+  Average Min Temperature: 1.68°C
+  Total Precipitation: 74.00 mm
+  Max Wind Speed: 24.00 km/h
+  Min Wind Speed: 18.00 km/h
+----------------------------------------
+Statistics for Sydney:
+  Average Max Temperature: 30.87°C
+  Average Min Temperature: 20.87°C
+  Total Precipitation: 2.90 mm
+  Max Wind Speed: 20.00 km/h
+  Min Wind Speed: 14.00 km/h
+----------------------------------------
+Statistics for Tokyo:
+  Average Max Temperature: 10.81°C
+  Average Min Temperature: 3.65°C
+  Total Precipitation: 3.70 mm
+  Max Wind Speed: 22.00 km/h
+  Min Wind Speed: 10.00 km/h
+----------------------------------------
